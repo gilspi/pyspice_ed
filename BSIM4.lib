@@ -1,0 +1,8 @@
+* BSIM4.7.0 Model Card for NMOS
+* The BSIM4 model card below is used for benchmarking the implementation
+* of BSIM4.7.0 against BSIM Team's standard results using SPICE3f5.
+
+.MODEL nmos NMOS (LEVEL=49 VTH0=0.25 U0=0.032 TOX=1.8E-9 L=180E-9 W=1E-6 Pd=1.2e-6 Ps=1.2e-6)
+
+
+
